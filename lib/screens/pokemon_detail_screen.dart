@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:myapp/providers/data_provider.dart';
 import 'package:myapp/providers/pokemon_detail_provider.dart';
 
 class PokemonDetailScreen extends ConsumerWidget {
